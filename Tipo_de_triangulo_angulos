@@ -1,4 +1,4 @@
-//Programa que te pregunta por las medidas de cada uno de los lados de triangulo y te dice si es un triangulo equilatero, escaleno, isoseles o si no es un triangulo 
+//Programa que te pregunta por las medidas de cada uno de los lados de triangulo y te dice si es un triangulo agudo, obtuso o rectángulo
 #include <stdio.h>
 #include <stdlib.h>
 int main() 
